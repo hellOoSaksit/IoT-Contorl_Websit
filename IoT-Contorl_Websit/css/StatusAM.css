@@ -1,0 +1,12 @@
+.NameTag {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+    text-align: center;
+}
+.col-xs-1{
+    background-color: rgb(255, 255, 255);
+
+}
+

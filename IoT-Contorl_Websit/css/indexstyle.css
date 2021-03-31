@@ -1,0 +1,74 @@
+body{
+    text-align: center;
+}
+.buttonStatus{
+    color: rgb(0, 0, 0);
+    font-family: Verdana;
+}
+.ButtonContoler{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 150px;
+}
+.ButtonContoler:hover{
+    background-color: #55f05d;
+}
+
+.buttonStatus2{
+    color: rgb(0, 0, 0);
+    font-family: Verdana;
+}
+.ButtonContoler2{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 150px;
+}
+.ButtonContoler2:hover{
+    background-color: #55f05d;
+}
+
+.TempStatus{
+    font-size: 1.0em;
+    font-family: Verdana;
+}
+.HumStatus{
+    font-size: 1.0em;
+    font-family: Verdana;
+}
+.HumDStatus{
+    font-size: 1.0em;
+    font-family: Verdana;
+}
+
+.ButtonContoler3{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width: 150px;
+}
+.ButtonContoler3:hover{
+    background-color: #55f05d;
+}
