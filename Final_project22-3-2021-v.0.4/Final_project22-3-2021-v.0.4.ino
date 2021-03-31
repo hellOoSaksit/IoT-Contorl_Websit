@@ -6,17 +6,17 @@
 #include <NTPClient.h>
 #define _TASK_SLEEP_ON_IDLE_RUN
 #define DHTTYPE DHT11
-#define FIREBASE_HOST "final-project-32eea-default-rtdb.firebaseio.com"
-#define API_KEY "AIzaSyAykGDYb4neZ5b_jhccpiGgMvbSQK8FgGU" 
-#define USER_EMAIL "final@project.com"
-#define USER_PASSWORD "0624574810"
+#define FIREBASE_HOST "-----------------------------------"
+#define API_KEY "-----------------------------" 
+#define USER_EMAIL "--------------"
+#define USER_PASSWORD "----------"
 #define LED_RDE D0
 #define LED_Green D2
 #define LED_Blue1 D5
 #define LED_Blue2 D6
 #define Relay D7
-const char* ssid = "IoTByTop";
-const char* password = "0624574810";
+const char* ssid = "-------------";
+const char* password = "----------";
 const int DHTPin = D1;
 const int analogPinLDR = A0; 
 const long offsetTime = 25200;
